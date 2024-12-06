@@ -11,12 +11,6 @@ class OrderTest extends TestCase
     use RefreshDatabase;
 
     /**
-     * Teste para exibir os detalhes de um pedido específico.
-     */
-    public function test_show_order_by_id()
-    {      
-
-    /**
      * Teste para realizar o checkout de um pedido.
      */
     public function test_checkout_order()
