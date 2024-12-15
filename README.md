@@ -338,3 +338,4 @@ Para fazer a limpeza da aplicação, use o comando:
    `minikube stop`
 3. Delete o minikube
    `minikube delete`
+
